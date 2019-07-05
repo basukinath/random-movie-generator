@@ -1,0 +1,28 @@
+Movie                                                                            IMDBRating
+=====                                                                            ==========
+Forrest Gump                                                                     8.8
+A Beautiful Mind                                                                 8.2
+Lucy                                                                             8.2
+The Martian                                                                      8.0
+Life Of Pi                                                                       7.9
+The Notebook                                                                     7.9
+The Bourne Supremacy                                                             7.7
+The Fault in Our Stars                                                           7.7
+The Social Network                                                               7.7
+The Theory of Everything                                                         7.7
+Hanna                                                                            7.6
+Alita Battle Angel                                                               7.5
+A Walk To Remember                                                               7.4
+Bridge to Terabithia                                                             7.2
+Everest                                                                          7.1
+The Intern                                                                       7.1
+Charlie Chaplin - The Kids                                                       6.6
+Minions                                                                          6.4
+Someone like You                                                                 6.1
+2012                                                                             5.8
+Angels.and.Demons.2009.REMASTERED.720p.BluRay.x264.ShAaNiG                        -1                                                         -1
+La.La.Land.2016.DVDScr.XVID.AC3.HQ.Hive-CM8                                       -1
+Nerve 2016.mkv                                                                    -1
+Interstellar.2014.720p.BluRay.x264.YIFY                                           -1
+Its A Wonderful Life {1946] 720p BRRip x264 - HDMiCRO by Mr. KickASS              -1
+
