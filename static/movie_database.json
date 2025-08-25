@@ -1,0 +1,10545 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Godfather: Part II",
+      "year": 1974,
+      "rating": 9.0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "rating": 9.0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "rating": 8.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "rating": 8.9,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "rating": 8.9,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "rating": 8.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "rating": 8.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Il buono, il brutto, il cattivo",
+      "year": 1966,
+      "rating": 8.8,
+      "genres": [
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "rating": 8.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "rating": 8.7,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Goodfellas",
+      "year": 1990,
+      "rating": 8.7,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "rating": 8.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "rating": 8.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hamilton",
+      "year": 2020,
+      "rating": 8.6,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gisaengchung",
+      "year": 2019,
+      "rating": 8.6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Soorarai Pottru",
+      "year": 2020,
+      "rating": 8.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 8.6,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Cidade de Deus",
+      "year": 2002,
+      "rating": 8.6,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sen to Chihiro no kamikakushi",
+      "year": 2001,
+      "rating": 8.6,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "rating": 8.6,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Green Mile",
+      "year": 1999,
+      "rating": 8.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La vita \u00e8 bella",
+      "year": 1997,
+      "rating": 8.6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "rating": 8.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "rating": 8.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Star Wars",
+      "year": 1977,
+      "rating": 8.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Seppuku",
+      "year": 1962,
+      "rating": 8.6,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Shichinin no samurai",
+      "year": 1954,
+      "rating": 8.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "rating": 8.6,
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Joker",
+      "year": 2019,
+      "rating": 8.5,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Whiplash",
+      "year": 2014,
+      "rating": 8.5,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Intouchables",
+      "year": 2011,
+      "rating": 8.5,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "rating": 8.5,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Departed",
+      "year": 2006,
+      "rating": 8.5,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Pianist",
+      "year": 2002,
+      "rating": 8.5,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "rating": 8.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "American History X",
+      "year": 1998,
+      "rating": 8.5,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "rating": 8.5,
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "L\u00e9on",
+      "year": 1994,
+      "rating": 8.5,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lion King",
+      "year": 1994,
+      "rating": 8.5,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "rating": 8.5,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Nuovo Cinema Paradiso",
+      "year": 1988,
+      "rating": 8.5,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hotaru no haka",
+      "year": 1988,
+      "rating": 8.5,
+      "genres": [
+        "Animation",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Back to the Future",
+      "year": 1985,
+      "rating": 8.5,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Once Upon a Time in the West",
+      "year": 1968,
+      "rating": 8.5,
+      "genres": [
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Psycho",
+      "year": 1960,
+      "rating": 8.5,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Casablanca",
+      "year": 1942,
+      "rating": 8.5,
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Modern Times",
+      "year": 1936,
+      "rating": 8.5,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "City Lights",
+      "year": 1931,
+      "rating": 8.5,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Capharna\u00fcm",
+      "year": 2018,
+      "rating": 8.4,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ayla: The Daughter of War",
+      "year": 2017,
+      "rating": 8.4,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Vikram Vedha",
+      "year": 2017,
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kimi no na wa.",
+      "year": 2016,
+      "rating": 8.4,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dangal",
+      "year": 2016,
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "rating": 8.4,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Coco",
+      "year": 2017,
+      "rating": 8.4,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Django Unchained",
+      "year": 2012,
+      "rating": 8.4,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "3 Idiots",
+      "year": 2009,
+      "rating": 8.4,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Taare Zameen Par",
+      "year": 2007,
+      "rating": 8.4,
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "WALL\u00b7E",
+      "year": 2008,
+      "rating": 8.4,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lives of Others",
+      "year": 2006,
+      "rating": 8.4,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Oldeuboi",
+      "year": 2003,
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "rating": 8.4,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mononoke-hime",
+      "year": 1997,
+      "rating": 8.4,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Once Upon a Time in America",
+      "year": 1984,
+      "rating": 8.4,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Shining",
+      "year": 1980,
+      "rating": 8.4,
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "rating": 8.4,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Alien",
+      "year": 1979,
+      "rating": 8.4,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Anand",
+      "year": 1971,
+      "rating": 8.4,
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Tengoku to jigoku",
+      "year": 1963,
+      "rating": 8.4,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "rating": 8.4,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "rating": 8.4,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Paths of Glory",
+      "year": 1957,
+      "rating": 8.4,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rear Window",
+      "year": 1954,
+      "rating": 8.4,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sunset Blvd.",
+      "year": 1950,
+      "rating": 8.4,
+      "genres": [
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Great Dictator",
+      "year": 1940,
+      "rating": 8.4,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "1917",
+      "year": 2019,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Tumbbad",
+      "year": 2018,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Andhadhun",
+      "year": 2018,
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Drishyam",
+      "year": 2013,
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jagten",
+      "year": 2012,
+      "rating": 8.3,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jodaeiye Nader az Simin",
+      "year": 2011,
+      "rating": 8.3,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Incendies",
+      "year": 2010,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Miracle in cell NO.7",
+      "year": 2019,
+      "rating": 8.3,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Babam ve Oglum",
+      "year": 2005,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "rating": 8.3,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Am\u00e9lie",
+      "year": 2001,
+      "rating": 8.3,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Snatch",
+      "year": 2000,
+      "rating": 8.3,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "rating": 8.3,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "American Beauty",
+      "year": 1999,
+      "rating": 8.3,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bacheha-Ye aseman",
+      "year": 1997,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Family",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Toy Story",
+      "year": 1995,
+      "rating": 8.3,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Braveheart",
+      "year": 1995,
+      "rating": 8.3,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Reservoir Dogs",
+      "year": 1992,
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Idi i smotri",
+      "year": 1985,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Aliens",
+      "year": 1986,
+      "rating": 8.3,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Amadeus",
+      "year": 1984,
+      "rating": 8.3,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Scarface",
+      "year": 1983,
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "rating": 8.3,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Das Boot",
+      "year": 1981,
+      "rating": 8.3,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Taxi Driver",
+      "year": 1976,
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Sting",
+      "year": 1973,
+      "rating": 8.3,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Clockwork Orange",
+      "year": 1971,
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "rating": 8.3,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Per qualche dollaro in pi\u00f9",
+      "year": 1965,
+      "rating": 8.3,
+      "genres": [
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "rating": 8.3,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Apartment",
+      "year": 1960,
+      "rating": 8.3,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "North by Northwest",
+      "year": 1959,
+      "rating": 8.3,
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Vertigo",
+      "year": 1958,
+      "rating": 8.3,
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "rating": 8.3,
+      "genres": [
+        "Comedy",
+        "Musical",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ikiru",
+      "year": 1952,
+      "rating": 8.3,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ladri di biciclette",
+      "year": 1948,
+      "rating": 8.3,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Double Indemnity",
+      "year": 1944,
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Citizen Kane",
+      "year": 1941,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "M - Eine Stadt sucht einen M\u00f6rder",
+      "year": 1931,
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Metropolis",
+      "year": 1927,
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Kid",
+      "year": 1921,
+      "rating": 8.3,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Chhichhore",
+      "year": 2019,
+      "rating": 8.2,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Uri: The Surgical Strike",
+      "year": 2018,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "K.G.F: Chapter 1",
+      "year": 2018,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Green Book",
+      "year": 2018,
+      "rating": 8.2,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017,
+      "rating": 8.2,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Talvar",
+      "year": 2015,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Baahubali 2: The Conclusion",
+      "year": 2017,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Klaus",
+      "year": 2019,
+      "rating": 8.2,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Drishyam",
+      "year": 2015,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Queen",
+      "year": 2013,
+      "rating": 8.2,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mandariinid",
+      "year": 2013,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bhaag Milkha Bhaag",
+      "year": 2013,
+      "rating": 8.2,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gangs of Wasseypur",
+      "year": 2012,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Udaan",
+      "year": 2010,
+      "rating": 8.2,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Paan Singh Tomar",
+      "year": 2012,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Biography",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "El secreto de sus ojos",
+      "year": 2009,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Warrior",
+      "year": 2011,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Shutter Island",
+      "year": 2010,
+      "rating": 8.2,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Up",
+      "year": 2009,
+      "rating": 8.2,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "rating": 8.2,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Chak De! India",
+      "year": 2007,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "Family",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "rating": 8.2,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Pan's Labyrinth",
+      "year": 2006,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Toy Story 3",
+      "year": 2010,
+      "rating": 8.2,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "V for Vendetta",
+      "year": 2005,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rang De Basanti",
+      "year": 2006,
+      "rating": 8.2,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Black",
+      "year": 2005,
+      "rating": 8.2,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Batman Begins",
+      "year": 2005,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Swades: We, the People",
+      "year": 2004,
+      "rating": 8.2,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Der Untergang",
+      "year": 2004,
+      "rating": 8.2,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hauru no ugoku shiro",
+      "year": 2004,
+      "rating": 8.2,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Beautiful Mind",
+      "year": 2001,
+      "rating": 8.2,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hera Pheri",
+      "year": 2000,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year": 1998,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "L.A. Confidential",
+      "year": 1997,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Eskiya",
+      "year": 1996,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Heat",
+      "year": 1995,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Casino",
+      "year": 1995,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Andaz Apna Apna",
+      "year": 1994,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Unforgiven",
+      "year": 1992,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dom za vesanje",
+      "year": 1988,
+      "rating": 8.2,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Tonari no Totoro",
+      "year": 1988,
+      "rating": 8.2,
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Die Hard",
+      "year": 1988,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ran",
+      "year": 1985,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Raging Bull",
+      "year": 1980,
+      "rating": 8.2,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Stalker",
+      "year": 1979,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "H\u00f6stsonaten",
+      "year": 1978,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Message",
+      "year": 1976,
+      "rating": 8.2,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sholay",
+      "year": 1975,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "rating": 8.2,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Great Escape",
+      "year": 1963,
+      "rating": 8.2,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Y\u00f4jinb\u00f4",
+      "year": 1961,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Some Like It Hot",
+      "year": 1959,
+      "rating": 8.2,
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Smultronst\u00e4llet",
+      "year": 1957,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Det sjunde inseglet",
+      "year": 1957,
+      "rating": 8.2,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Du rififi chez les hommes",
+      "year": 1955,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dial M for Murder",
+      "year": 1954,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "T\u00f4ky\u00f4 monogatari",
+      "year": 1953,
+      "rating": 8.2,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rash\u00f4mon",
+      "year": 1950,
+      "rating": 8.2,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "All About Eve",
+      "year": 1950,
+      "rating": 8.2,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Treasure of the Sierra Madre",
+      "year": 1948,
+      "rating": 8.2,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "To Be or Not to Be",
+      "year": 1942,
+      "rating": 8.2,
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Gold Rush",
+      "year": 1925,
+      "rating": 8.2,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sherlock Jr.",
+      "year": 1924,
+      "rating": 8.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Portrait de la jeune fille en feu",
+      "year": 2019,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Pink",
+      "year": 2016,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Koe no katachi",
+      "year": 2016,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Contratiempo",
+      "year": 2016,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ah-ga-ssi",
+      "year": 2016,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mommy",
+      "year": 2014,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Haider",
+      "year": 2014,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Logan",
+      "year": 2017,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Room",
+      "year": 2015,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Relatos salvajes",
+      "year": 2014,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Soul",
+      "year": 2020,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kis Uykusu",
+      "year": 2014,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "PK",
+      "year": 2014,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "OMG: Oh My God!",
+      "year": 2012,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "\u00d4kami kodomo no Ame to Yuki",
+      "year": 2012,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hacksaw Ridge",
+      "year": 2016,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Inside Out",
+      "year": 2015,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Barfi!",
+      "year": 2012,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rush",
+      "year": 2013,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Spotlight",
+      "year": 2015,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Song of the Sea",
+      "year": 2014,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kahaani",
+      "year": 2012,
+      "rating": 8.1,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Zindagi Na Milegi Dobara",
+      "year": 2011,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Wednesday",
+      "year": 2008,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gran Torino",
+      "year": 2008,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Okuribito",
+      "year": 2008,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hachi: A Dog's Tale",
+      "year": 2009,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mary and Max",
+      "year": 2009,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Into the Wild",
+      "year": 2007,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lage Raho Munna Bhai",
+      "year": 2006,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Million Dollar Baby",
+      "year": 2004,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hotel Rwanda",
+      "year": 2004,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Taegukgi hwinalrimyeo",
+      "year": 2004,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Before Sunset",
+      "year": 2004,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Munna Bhai M.B.B.S.",
+      "year": 2003,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Salinui chueok",
+      "year": 2003,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dil Chahta Hai",
+      "year": 2001,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Finding Nemo",
+      "year": 2003,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Catch Me If You Can",
+      "year": 2002,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Amores perros",
+      "year": 2000,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Shin seiki Evangelion Gekij\u00f4-ban: Air/Magokoro wo, kimi ni",
+      "year": 1997,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lagaan: Once Upon a Time in India",
+      "year": 2001,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Sixth Sense",
+      "year": 1999,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La leggenda del pianista sull'oceano",
+      "year": 1998,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Truman Show",
+      "year": 1998,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Crna macka, beli macor",
+      "year": 1998,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Big Lebowski",
+      "year": 1998,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fa yeung nin wah",
+      "year": 2000,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Trainspotting",
+      "year": 1996,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fargo",
+      "year": 1996,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Underground",
+      "year": 1995,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La haine",
+      "year": 1995,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Before Sunrise",
+      "year": 1995,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Trois couleurs: Rouge",
+      "year": 1994,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Chung Hing sam lam",
+      "year": 1994,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jurassic Park",
+      "year": 1993,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "In the Name of the Father",
+      "year": 1993,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ba wang bie ji",
+      "year": 1993,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "D\u00e0 h\u00f3ng denglong gaogao gu\u00e0",
+      "year": 1991,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dead Poets Society",
+      "year": 1989,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Stand by Me",
+      "year": 1986,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Platoon",
+      "year": 1986,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Paris, Texas",
+      "year": 1984,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kaze no tani no Naushika",
+      "year": 1984,
+      "rating": 8.1,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Thing",
+      "year": 1982,
+      "rating": 8.1,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Pink Floyd: The Wall",
+      "year": 1982,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fitzcarraldo",
+      "year": 1982,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fanny och Alexander",
+      "year": 1982,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Blade Runner",
+      "year": 1982,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Elephant Man",
+      "year": 1980,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Life of Brian",
+      "year": 1979,
+      "rating": 8.1,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Deer Hunter",
+      "year": 1978,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rocky",
+      "year": 1976,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Network",
+      "year": 1976,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Barry Lyndon",
+      "year": 1975,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Zerkalo",
+      "year": 1975,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Chinatown",
+      "year": 1974,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Paper Moon",
+      "year": 1973,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Viskningar och rop",
+      "year": 1972,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Solaris",
+      "year": 1972,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le samoura\u00ef",
+      "year": 1967,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Cool Hand Luke",
+      "year": 1967,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Persona",
+      "year": 1966,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Andrei Rublev",
+      "year": 1966,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La battaglia di Algeri",
+      "year": 1966,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "El \u00e1ngel exterminador",
+      "year": 1962,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sanjuro",
+      "year": 1962,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ivanovo detstvo",
+      "year": 1962,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jungfruk\u00e4llan",
+      "year": 1960,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Inherit the Wind",
+      "year": 1960,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Les quatre cents coups",
+      "year": 1959,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ben-Hur",
+      "year": 1959,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kakushi-toride no san-akunin",
+      "year": 1958,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le notti di Cabiria",
+      "year": 1957,
+      "rating": 8.1,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kumonosu-j\u00f4",
+      "year": 1957,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Bridge on the River Kwai",
+      "year": 1957,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "On the Waterfront",
+      "year": 1954,
+      "rating": 8.1,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le salaire de la peur",
+      "year": 1953,
+      "rating": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ace in the Hole",
+      "year": 1951,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "White Heat",
+      "year": 1949,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Third Man",
+      "year": 1949,
+      "rating": 8.1,
+      "genres": [
+        "Film-Noir",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Red Shoes",
+      "year": 1948,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Shop Around the Corner",
+      "year": 1940,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rebecca",
+      "year": 1940,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La Grande Illusion",
+      "year": 1937,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "It Happened One Night",
+      "year": 1934,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La passion de Jeanne d'Arc",
+      "year": 1928,
+      "rating": 8.1,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Circus",
+      "year": 1928,
+      "rating": 8.1,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sunrise: A Song of Two Humans",
+      "year": 1927,
+      "rating": 8.1,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The General",
+      "year": 1926,
+      "rating": 8.1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Das Cabinet des Dr. Caligari",
+      "year": 1920,
+      "rating": 8.1,
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Badhaai ho",
+      "year": 2018,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Togo",
+      "year": 2019,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Airlift",
+      "year": 2016,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Baby",
+      "year": 2015,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La La Land",
+      "year": 2016,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lion",
+      "year": 2016,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Zootopia",
+      "year": 2016,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "B\u00e3hubali: The Beginning",
+      "year": 2015,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kaguyahime no monogatari",
+      "year": 2013,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Wonder",
+      "year": 2017,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gully Boy",
+      "year": 2019,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Special Chabbis",
+      "year": 2013,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Short Term 12",
+      "year": 2013,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Serbuan maut 2: Berandal",
+      "year": 2014,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Imitation Game",
+      "year": 2014,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "year": 2018,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Revenant",
+      "year": 2015,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Perks of Being a Wallflower",
+      "year": 2012,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Tropa de Elite 2: O Inimigo Agora \u00e9 Outro",
+      "year": 2010,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The King's Speech",
+      "year": 2010,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Help",
+      "year": 2011,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Deadpool",
+      "year": 2016,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Darbareye Elly",
+      "year": 2009,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dev.D",
+      "year": 2009,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Yip Man",
+      "year": 2008,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "My Name Is Khan",
+      "year": 2010,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Nefes: Vatan Sagolsun",
+      "year": 2009,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Slumdog Millionaire",
+      "year": 2008,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Black Swan",
+      "year": 2010,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Tropa de Elite",
+      "year": 2007,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Avengers",
+      "year": 2012,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Persepolis",
+      "year": 2007,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dallas Buyers Club",
+      "year": 2013,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Blood Diamond",
+      "year": 2006,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Bourne Ultimatum",
+      "year": 2007,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bin-jip",
+      "year": 2004,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sin City",
+      "year": 2005,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le scaphandre et le papillon",
+      "year": 2007,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "G.O.R.A.",
+      "year": 2004,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ratatouille",
+      "year": 2007,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Casino Royale",
+      "year": 2006,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Vozvrashchenie",
+      "year": 2003,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bom Yeoareum Gaeul Gyeoul Geurigo Bom",
+      "year": 2003,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mar adentro",
+      "year": 2014,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Cinderella Man",
+      "year": 2005,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kal Ho Naa Ho",
+      "year": 2003,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mou gaan dou",
+      "year": 2002,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Big Fish",
+      "year": 2003,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Incredibles",
+      "year": 2004,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Yeopgijeogin geunyeo",
+      "year": 2001,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dogville",
+      "year": 2003,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Vizontele",
+      "year": 2001,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Donnie Darko",
+      "year": 2001,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Magnolia",
+      "year": 1999,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dancer in the Dark",
+      "year": 2000,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Straight Story",
+      "year": 1999,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "P\u00e2fekuto bur\u00fb",
+      "year": 1997,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Festen",
+      "year": 1998,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Central do Brasil",
+      "year": 1998,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Iron Giant",
+      "year": 1999,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Knockin' on Heaven's Door",
+      "year": 1997,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sling Blade",
+      "year": 1996,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Secrets & Lies",
+      "year": 1996,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Twelve Monkeys",
+      "year": 1995,
+      "rating": 8.0,
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "K\u00f4kaku Kid\u00f4tai",
+      "year": 1995,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Groundhog Day",
+      "year": 1993,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bound by Honor",
+      "year": 1993,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Scent of a Woman",
+      "year": 1992,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Aladdin",
+      "year": 1992,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "JFK",
+      "year": 1991,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dances with Wolves",
+      "year": 1990,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Do the Right Thing",
+      "year": 1989,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rain Man",
+      "year": 1988,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Akira",
+      "year": 1988,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Action",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Princess Bride",
+      "year": 1987,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Der Himmel \u00fcber Berlin",
+      "year": 1987,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Au revoir les enfants",
+      "year": 1987,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Tenk\u00fb no shiro Rapyuta",
+      "year": 1986,
+      "rating": 8.0,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Terminator",
+      "year": 1984,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gandhi",
+      "year": 1982,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kagemusha",
+      "year": 1980,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Being There",
+      "year": 1979,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Annie Hall",
+      "year": 1977,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jaws",
+      "year": 1975,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dog Day Afternoon",
+      "year": 1975,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Young Frankenstein",
+      "year": 1974,
+      "rating": 8.0,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Papillon",
+      "year": 1973,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Exorcist",
+      "year": 1973,
+      "rating": 8.0,
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sleuth",
+      "year": 1972,
+      "rating": 8.0,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fiddler on the Roof",
+      "year": 1971,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Family",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Il conformista",
+      "year": 1970,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Planet of the Apes",
+      "year": 1968,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Graduate",
+      "year": 1967,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Sound of Music",
+      "year": 1965,
+      "rating": 8.0,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Per un pugno di dollari",
+      "year": 1964,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "8\u00bd",
+      "year": 1963,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Vivre sa vie: Film en douze tableaux",
+      "year": 1962,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Hustler",
+      "year": 1961,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La dolce vita",
+      "year": 1960,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rio Bravo",
+      "year": 1959,
+      "rating": 8.0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Anatomy of a Murder",
+      "year": 1959,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Touch of Evil",
+      "year": 1958,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sweet Smell of Success",
+      "year": 1957,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Killing",
+      "year": 1956,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Night of the Hunter",
+      "year": 1955,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La Strada",
+      "year": 1954,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Les diaboliques",
+      "year": 1955,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Stalag 17",
+      "year": 1953,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Roman Holiday",
+      "year": 1953,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "rating": 8.0,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "In a Lonely Place",
+      "year": 1950,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kind Hearts and Coronets",
+      "year": 1949,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rope",
+      "year": 1948,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Out of the Past",
+      "year": 1947,
+      "rating": 8.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Brief Encounter",
+      "year": 1945,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Laura",
+      "year": 1944,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Best Years of Our Lives",
+      "year": 1946,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Arsenic and Old Lace",
+      "year": 1942,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "rating": 8.0,
+      "genres": [
+        "Film-Noir",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "rating": 8.0,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La r\u00e8gle du jeu",
+      "year": 1939,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Thin Man",
+      "year": 1934,
+      "rating": 8.0,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "year": 1930,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bronenosets Potemkin",
+      "year": 1925,
+      "rating": 8.0,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Knives Out",
+      "year": 2019,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dil Bechara",
+      "year": 2020,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Manbiki kazoku",
+      "year": 2018,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Marriage Story",
+      "year": 2019,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "I, Daniel Blake",
+      "year": 2016,
+      "rating": 7.9,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Isle of Dogs",
+      "year": 2018,
+      "rating": 7.9,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Captain Fantastic",
+      "year": 2016,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sing Street",
+      "year": 2016,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jojo Rabbit",
+      "year": 2019,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "year": 2015,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Before Midnight",
+      "year": 2013,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bir Zamanlar Anadolu'da",
+      "year": 2011,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Artist",
+      "year": 2011,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Amour",
+      "year": 2012,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Irishman",
+      "year": 2019,
+      "rating": 7.9,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Un proph\u00e8te",
+      "year": 2009,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Moon",
+      "year": 2009,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "L\u00e5t den r\u00e4tte komma in",
+      "year": 2008,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "District 9",
+      "year": 2009,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Wrestler",
+      "year": 2008,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jab We Met",
+      "year": 2007,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Boyhood",
+      "year": 2014,
+      "rating": 7.9,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "4 luni, 3 saptam\u00e2ni si 2 zile",
+      "year": 2007,
+      "rating": 7.9,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Star Trek",
+      "year": 2009,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "In Bruges",
+      "year": 2008,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Man from Earth",
+      "year": 2007,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Letters from Iwo Jima",
+      "year": 2006,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Fall",
+      "year": 2006,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Life of Pi",
+      "year": 2012,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "rating": 7.9,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "C.R.A.Z.Y.",
+      "year": 2005,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Les choristes",
+      "year": 2004,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Iron Man",
+      "year": 2008,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Shaun of the Dead",
+      "year": 2004,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gegen die Wand",
+      "year": 2004,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mystic River",
+      "year": 2003,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ying xiong",
+      "year": 2002,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hable con ella",
+      "year": 2002,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "No Man's Land",
+      "year": 2001,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Cowboy Bebop: Tengoku no tobira",
+      "year": 2001,
+      "rating": 7.9,
+      "genres": [
+        "Animation",
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Bourne Identity",
+      "year": 2002,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Nueve reinas",
+      "year": 2000,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Children of Men",
+      "year": 2006,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Almost Famous",
+      "year": 2000,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mulholland Dr.",
+      "year": 2001,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Toy Story 2",
+      "year": 1999,
+      "rating": 7.9,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Boogie Nights",
+      "year": 1997,
+      "rating": 7.9,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mimi wo sumaseba",
+      "year": 1995,
+      "rating": 7.9,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Once Were Warriors",
+      "year": 1994,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "True Romance",
+      "year": 1993,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Trois couleurs: Bleu",
+      "year": 1993,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Music",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "J\u00fbb\u00ea ninp\u00fbch\u00f4",
+      "year": 1993,
+      "rating": 7.9,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Carlito's Way",
+      "year": 1993,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Edward Scissorhands",
+      "year": 1990,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "My Left Foot: The Story of Christy Brown",
+      "year": 1989,
+      "rating": 7.9,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Crimes and Misdemeanors",
+      "year": 1989,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Untouchables",
+      "year": 1987,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hannah and Her Sisters",
+      "year": 1986,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Brazil",
+      "year": 1985,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "This Is Spinal Tap",
+      "year": 1984,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Christmas Story",
+      "year": 1983,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Blues Brothers",
+      "year": 1980,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Manhattan",
+      "year": 1979,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "All That Jazz",
+      "year": 1979,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Music",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dawn of the Dead",
+      "year": 1978,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "All the President's Men",
+      "year": 1976,
+      "rating": 7.9,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La monta\u00f1a sagrada",
+      "year": 1973,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Amarcord",
+      "year": 1973,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le charme discret de la bourgeoisie",
+      "year": 1972,
+      "rating": 7.9,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Aguirre, der Zorn Gottes",
+      "year": 1972,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Biography"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Harold and Maude",
+      "year": 1971,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Patton",
+      "year": 1970,
+      "rating": 7.9,
+      "genres": [
+        "Biography",
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "rating": 7.9,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lion in Winter",
+      "year": 1968,
+      "rating": 7.9,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "In the Heat of the Night",
+      "year": 1967,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Charade",
+      "year": 1963,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Manchurian Candidate",
+      "year": 1962,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Spartacus",
+      "year": 1960,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "L'avventura",
+      "year": 1960,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hiroshima mon amour",
+      "year": 1959,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Ten Commandments",
+      "year": 1956,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Searchers",
+      "year": 1956,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "East of Eden",
+      "year": 1955,
+      "rating": 7.9,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "High Noon",
+      "year": 1952,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Strangers on a Train",
+      "year": 1951,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Film-Noir",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Harvey",
+      "year": 1950,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Miracle on 34th Street",
+      "year": 1947,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Notorious",
+      "year": 1946,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Film-Noir",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Big Sleep",
+      "year": 1946,
+      "rating": 7.9,
+      "genres": [
+        "Crime",
+        "Film-Noir",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lost Weekend",
+      "year": 1945,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "His Girl Friday",
+      "year": 1940,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Adventures of Robin Hood",
+      "year": 1938,
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Night at the Opera",
+      "year": 1935,
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Music",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "King Kong",
+      "year": 1933,
+      "rating": 7.9,
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Freaks",
+      "year": 1932,
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Nosferatu",
+      "year": 1922,
+      "rating": 7.9,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Gentlemen",
+      "year": 2019,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Raazi",
+      "year": 2018,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sound of Metal",
+      "year": 2019,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Forushande",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dunkirk",
+      "year": 2017,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Perfetti sconosciuti",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hidden Figures",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Paddington 2",
+      "year": 2017,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Udta Punjab",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kubo and the Two Strings",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "M.S. Dhoni: The Untold Story",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Manchester by the Sea",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Under sandet",
+      "year": 2015,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rogue One",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Hateful Eight",
+      "year": 2015,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Little Women",
+      "year": 2019,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Loving Vincent",
+      "year": 2017,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Biography",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Pride",
+      "year": 2014,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le pass\u00e9",
+      "year": 2013,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La grande bellezza",
+      "year": 2013,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lunchbox",
+      "year": 2013,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Vicky Donor",
+      "year": 2012,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Big Hero 6",
+      "year": 2014,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "About Time",
+      "year": 2013,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "English Vinglish",
+      "year": 2012,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kaze tachinu",
+      "year": 2013,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Toy Story 4",
+      "year": 2019,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La migliore offerta",
+      "year": 2013,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "year": 2012,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "year": 2014,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Big Short",
+      "year": 2015,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kokuhaku",
+      "year": 2010,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ang-ma-reul bo-at-da",
+      "year": 2010,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Captain Phillips",
+      "year": 2013,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ajeossi",
+      "year": 2010,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Straight Outta Compton",
+      "year": 2015,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Madeo",
+      "year": 2009,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Chugyeokja",
+      "year": 2008,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Das wei\u00dfe Band - Eine deutsche Kindergeschichte",
+      "year": 2009,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "History",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "M\u00e4n som hatar kvinnor",
+      "year": 2009,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Trial of the Chicago 7",
+      "year": 2020,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Druk",
+      "year": 2020,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Fighter",
+      "year": 2010,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Taken",
+      "year": 2008,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Boy in the Striped Pyjamas",
+      "year": 2008,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Once",
+      "year": 2007,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Auf der anderen Seite",
+      "year": 2007,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Atonement",
+      "year": 2007,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Drive",
+      "year": 2011,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "American Gangster",
+      "year": 2007,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Avatar",
+      "year": 2009,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mr. Nobody",
+      "year": 2009,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Apocalypto",
+      "year": 2006,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "year": 2006,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Veer-Zaara",
+      "year": 2004,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Family",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Adams \u00e6bler",
+      "year": 2005,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The World's Fastest Indian",
+      "year": 2005,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "T\u00f4ky\u00f4 goddof\u00e2z\u00e2zu",
+      "year": 2003,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Serenity",
+      "year": 2005,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Walk the Line",
+      "year": 2005,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ondskan",
+      "year": 2003,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Notebook",
+      "year": 2004,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Diarios de motocicleta",
+      "year": 2004,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lilja 4-ever",
+      "year": 2002,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Les triplettes de Belleville",
+      "year": 2003,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gongdong gyeongbi guyeok JSA",
+      "year": 2000,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "year": 2002,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Waking Life",
+      "year": 2001,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Remember the Titans",
+      "year": 2000,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Wo hu cang long",
+      "year": 2000,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Todo sobre mi madre",
+      "year": 1999,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Cast Away",
+      "year": 2000,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Boondock Saints",
+      "year": 1999,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Insider",
+      "year": 1999,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "October Sky",
+      "year": 1999,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Shrek",
+      "year": 2001,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Titanic",
+      "year": 1997,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hana-bi",
+      "year": 1997,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gattaca",
+      "year": 1997,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Game",
+      "year": 1997,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Breaking the Waves",
+      "year": 1996,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ed Wood",
+      "year": 1994,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "What's Eating Gilbert Grape",
+      "year": 1993,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Tombstone",
+      "year": 1993,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Sandlot",
+      "year": 1993,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Remains of the Day",
+      "year": 1993,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Naked",
+      "year": 1993,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Fugitive",
+      "year": 1993,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Bronx Tale",
+      "year": 1993,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lat sau san taam",
+      "year": 1992,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Night on Earth",
+      "year": 1991,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La double vie de V\u00e9ronique",
+      "year": 1991,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Boyz n the Hood",
+      "year": 1991,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Misery",
+      "year": 1990,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Awakenings",
+      "year": 1990,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Majo no takky\u00fbbin",
+      "year": 1989,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Glory",
+      "year": 1989,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dip huet seung hung",
+      "year": 1989,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mississippi Burning",
+      "year": 1988,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Predator",
+      "year": 1987,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Evil Dead II",
+      "year": 1987,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986,
+      "rating": 7.8,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Down by Law",
+      "year": 1986,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Goonies",
+      "year": 1985,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Color Purple",
+      "year": 1985,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Breakfast Club",
+      "year": 1985,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Killing Fields",
+      "year": 1984,
+      "rating": 7.8,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ghostbusters",
+      "year": 1984,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Right Stuff",
+      "year": 1983,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The King of Comedy",
+      "year": 1982,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "rating": 7.8,
+      "genres": [
+        "Family",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kramer vs. Kramer",
+      "year": 1979,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Days of Heaven",
+      "year": 1978,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Outlaw Josey Wales",
+      "year": 1976,
+      "rating": 7.8,
+      "genres": [
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Man Who Would Be King",
+      "year": 1975,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "History",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Conversation",
+      "year": 1974,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La plan\u00e8te sauvage",
+      "year": 1973,
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Day of the Jackal",
+      "year": 1973,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Badlands",
+      "year": 1973,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Cabaret",
+      "year": 1972,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Music",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "rating": 7.8,
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Midnight Cowboy",
+      "year": 1969,
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Wait Until Dark",
+      "year": 1967,
+      "rating": 7.8,
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Guess Who's Coming to Dinner",
+      "year": 1967,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bonnie and Clyde",
+      "year": 1967,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Biography",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "My Fair Lady",
+      "year": 1964,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Family",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mary Poppins",
+      "year": 1964,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Longest Day",
+      "year": 1962,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jules et Jim",
+      "year": 1962,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Innocents",
+      "year": 1961,
+      "rating": 7.8,
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "\u00c0 bout de souffle",
+      "year": 1960,
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Red River",
+      "year": 1948,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Key Largo",
+      "year": 1948,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "To Have and Have Not",
+      "year": 1944,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Film-Noir"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Shadow of a Doubt",
+      "year": 1943,
+      "rating": 7.8,
+      "genres": [
+        "Film-Noir",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Stagecoach",
+      "year": 1939,
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lady Vanishes",
+      "year": 1938,
+      "rating": 7.8,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bringing Up Baby",
+      "year": 1938,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bride of Frankenstein",
+      "year": 1935,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Duck Soup",
+      "year": 1933,
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Musical",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Scarface: The Shame of the Nation",
+      "year": 1932,
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Frankenstein",
+      "year": 1931,
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Roma",
+      "year": 2018,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "God's Own Country",
+      "year": 2017,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Deadpool 2",
+      "year": 2018,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Wind River",
+      "year": 2017,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Get Out",
+      "year": 2017,
+      "rating": 7.7,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "En man som heter Ove",
+      "year": 2015,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "What We Do in the Shadows",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Omoide no M\u00e2n\u00ee",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Theory of Everything",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kingsman: The Secret Service",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Me and Earl and the Dying Girl",
+      "year": 2015,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La vie d'Ad\u00e8le",
+      "year": 2013,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kai po che!",
+      "year": 2013,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Broken Circle Breakdown",
+      "year": 2012,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rockstar",
+      "year": 2011,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Music",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Nebraska",
+      "year": 2013,
+      "rating": 7.7,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Wreck-It Ralph",
+      "year": 2012,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le Petit Prince",
+      "year": 2015,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Detachment",
+      "year": 2011,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Midnight in Paris",
+      "year": 2011,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Lego Movie",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gravity",
+      "year": 2013,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Beasts of No Nation",
+      "year": 2015,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Social Network",
+      "year": 2010,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "X: First Class",
+      "year": 2011,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Hangover",
+      "year": 2009,
+      "rating": 7.7,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Skyfall",
+      "year": 2012,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Silver Linings Playbook",
+      "year": 2012,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Argo",
+      "year": 2012,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "(500) Days of Summer",
+      "year": 2009,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "rating": 7.7,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gake no ue no Ponyo",
+      "year": 2008,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Frost/Nixon",
+      "year": 2008,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Papurika",
+      "year": 2006,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Changeling",
+      "year": 2008,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Flipped",
+      "year": 2010,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Toki o kakeru sh\u00f4jo",
+      "year": 2006,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Death Note: Desu n\u00f4to",
+      "year": 2006,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "This Is England",
+      "year": 2006,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2014,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Efter brylluppet",
+      "year": 2006,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Last King of Scotland",
+      "year": 2006,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lucky Number Slevin",
+      "year": 2006,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Joyeux No\u00ebl",
+      "year": 2005,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "History",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Control",
+      "year": 2007,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Tangled",
+      "year": 2010,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Zwartboek",
+      "year": 2006,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Brokeback Mountain",
+      "year": 2005,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "3:10 to Yuma",
+      "year": 2007,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Crash",
+      "year": 2004,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kung fu",
+      "year": 2004,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Bourne Supremacy",
+      "year": 2004,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Machinist",
+      "year": 2004,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ray",
+      "year": 2004,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lost in Translation",
+      "year": 2003,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2005,
+      "rating": 7.7,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Man on Fire",
+      "year": 2004,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Coraline",
+      "year": 2009,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Samurai",
+      "year": 2003,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Magdalene Sisters",
+      "year": 2002,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Good Bye Lenin!",
+      "year": 2003,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "In America",
+      "year": 2002,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "I Am Sam",
+      "year": 2001,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Adaptation.",
+      "year": 2002,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Black Hawk Down",
+      "year": 2001,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Road to Perdition",
+      "year": 2002,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Das Experiment",
+      "year": 2001,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Billy Elliot",
+      "year": 2000,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hedwig and the Angry Inch",
+      "year": 2001,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ocean's Eleven",
+      "year": 2001,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Vampire Hunter D: Bloodlust",
+      "year": 2000,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000,
+      "rating": 7.7,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Interstate 60: Episodes of the Road",
+      "year": 2002,
+      "rating": 7.7,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "South Park: Bigger, Longer & Uncut",
+      "year": 1999,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Office Space",
+      "year": 1999,
+      "rating": 7.7,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Happiness",
+      "year": 1998,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Training Day",
+      "year": 2001,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rushmore",
+      "year": 1998,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Abre los ojos",
+      "year": 1997,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "As Good as It Gets",
+      "year": 1997,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Fifth Element",
+      "year": 1997,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le d\u00eener de cons",
+      "year": 1998,
+      "rating": 7.7,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Donnie Brasco",
+      "year": 1997,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Shine",
+      "year": 1996,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Primal Fear",
+      "year": 1996,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hamlet",
+      "year": 1996,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Little Princess",
+      "year": 1995,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Do lok tin si",
+      "year": 1995,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Il postino",
+      "year": 1994,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Clerks",
+      "year": 1994,
+      "rating": 7.7,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Short Cuts",
+      "year": 1993,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Philadelphia",
+      "year": 1993,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Muppet Christmas Carol",
+      "year": 1992,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Malcolm X",
+      "year": 1992,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Last of the Mohicans",
+      "year": 1992,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kurenai no buta",
+      "year": 1992,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Glengarry Glen Ross",
+      "year": 1992,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Few Good Men",
+      "year": 1992,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fried Green Tomatoes",
+      "year": 1991,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Barton Fink",
+      "year": 1991,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Miller's Crossing",
+      "year": 1990,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Who Framed Roger Rabbit",
+      "year": 1988,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Spoorloos",
+      "year": 1988,
+      "rating": 7.7,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Withnail & I",
+      "year": 1987,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Last Emperor",
+      "year": 1987,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Empire of the Sun",
+      "year": 1987,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Der Name der Rose",
+      "year": 1986,
+      "rating": 7.7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Blue Velvet",
+      "year": 1986,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Purple Rose of Cairo",
+      "year": 1985,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "After Hours",
+      "year": 1985,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Zelig",
+      "year": 1983,
+      "rating": 7.7,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Verdict",
+      "year": 1982,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "First Blood",
+      "year": 1982,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Ordinary People",
+      "year": 1980,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Airplane!",
+      "year": 1980,
+      "rating": 7.7,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rupan sansei: Kariosutoro no shiro",
+      "year": 1979,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Halloween",
+      "year": 1978,
+      "rating": 7.7,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Le locataire",
+      "year": 1976,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Love and Death",
+      "year": 1975,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Taking of Pelham One Two Three",
+      "year": 1974,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Blazing Saddles",
+      "year": 1974,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Serpico",
+      "year": 1973,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Enter the Dragon",
+      "year": 1973,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Deliverance",
+      "year": 1972,
+      "rating": 7.7,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The French Connection",
+      "year": 1971,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dirty Harry",
+      "year": 1971,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Where Eagles Dare",
+      "year": 1968,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Odd Couple",
+      "year": 1968,
+      "rating": 7.7,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Dirty Dozen",
+      "year": 1967,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Belle de jour",
+      "year": 1967,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Man for All Seasons",
+      "year": 1966,
+      "rating": 7.7,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Repulsion",
+      "year": 1965,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Zulu",
+      "year": 1964,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Goldfinger",
+      "year": 1964,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Birds",
+      "year": 1963,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Cape Fear",
+      "year": 1962,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Peeping Tom",
+      "year": 1960,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Les yeux sans visage",
+      "year": 1960,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Invasion of the Body Snatchers",
+      "year": 1956,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Rebel Without a Cause",
+      "year": 1955,
+      "rating": 7.7,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Ladykillers",
+      "year": 1955,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sabrina",
+      "year": 1954,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Quiet Man",
+      "year": 1952,
+      "rating": 7.7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Day the Earth Stood Still",
+      "year": 1951,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The African Queen",
+      "year": 1951,
+      "rating": 7.7,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gilda",
+      "year": 1946,
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Film-Noir",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fantasia",
+      "year": 1940,
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Invisible Man",
+      "year": 1933,
+      "rating": 7.7,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dark Waters",
+      "year": 2019,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Searching",
+      "year": 2018,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Nelyubov",
+      "year": 2017,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Florida Project",
+      "year": 2017,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Just Mercy",
+      "year": 2019,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gifted",
+      "year": 2017,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Peanut Butter Falcon",
+      "year": 2019,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Victoria",
+      "year": 2015,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mustang",
+      "year": 2015,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Baby Driver",
+      "year": 2017,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Only the Brave",
+      "year": 2017,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Bridge of Spies",
+      "year": 2015,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Incredibles 2",
+      "year": 2018,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Moana",
+      "year": 2016,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sicario",
+      "year": 2015,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Creed",
+      "year": 2015,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Leviafan",
+      "year": 2014,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Hell or High Water",
+      "year": 2016,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Philomena",
+      "year": 2013,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "El cuerpo",
+      "year": 2012,
+      "rating": 7.6,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Serbuan maut",
+      "year": 2011,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "End of Watch",
+      "year": 2012,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kari-gurashi no Arietti",
+      "year": 2010,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Star Is Born",
+      "year": 2018,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "True Grit",
+      "year": 2010,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "H\u00e6vnen",
+      "year": 2010,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Despicable Me",
+      "year": 2010,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "50/50",
+      "year": 2011,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kick-Ass",
+      "year": 2010,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Celda 211",
+      "year": 2009,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Moneyball",
+      "year": 2011,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La piel que habito",
+      "year": 2011,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Zombieland",
+      "year": 2009,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Die Welle",
+      "year": 2008,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sherlock Holmes",
+      "year": 2009,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Blind Side",
+      "year": 2009,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Visitor",
+      "year": 2007,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Seven Pounds",
+      "year": 2008,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Eastern Promises",
+      "year": 2007,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Stardust",
+      "year": 2007,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Secret of Kells",
+      "year": 2009,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Inside Man",
+      "year": 2006,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gone Baby Gone",
+      "year": 2007,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "La Vie En Rose",
+      "year": 2007,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Huo Yuan Jia",
+      "year": 2006,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Illusionist",
+      "year": 2006,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dead Man's Shoes",
+      "year": 2004,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "year": 2009,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "300",
+      "year": 2006,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Match Point",
+      "year": 2005,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Watchmen",
+      "year": 2009,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lord of War",
+      "year": 2005,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Saw",
+      "year": 2004,
+      "rating": 7.6,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Synecdoche, New York",
+      "year": 2008,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mysterious Skin",
+      "year": 2004,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Jeux d'enfants",
+      "year": 2003,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Un long dimanche de fian\u00e7ailles",
+      "year": 2004,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Station Agent",
+      "year": 2003,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "21 Grams",
+      "year": 2003,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Boksuneun naui geot",
+      "year": 2002,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Finding Neverland",
+      "year": 2004,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "25th Hour",
+      "year": 2002,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Butterfly Effect",
+      "year": 2004,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "28 Days Later...",
+      "year": 2002,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Batoru rowaiaru",
+      "year": 2000,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "year": 2001,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Y tu mam\u00e1 tambi\u00e9n",
+      "year": 2001,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Others",
+      "year": 2001,
+      "rating": 7.6,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Blow",
+      "year": 2001,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Enemy at the Gates",
+      "year": 2001,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Minority Report",
+      "year": 2002,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Hurricane",
+      "year": 1999,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "American Psycho",
+      "year": 2000,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lola rennt",
+      "year": 1998,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Thin Red Line",
+      "year": 1998,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mulan",
+      "year": 1998,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Fear and Loathing in Las Vegas",
+      "year": 1998,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Funny Games",
+      "year": 1997,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dark City",
+      "year": 1998,
+      "rating": 7.6,
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sleepers",
+      "year": 1996,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lost Highway",
+      "year": 1997,
+      "rating": 7.6,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Sense and Sensibility",
+      "year": 1995,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dead Man",
+      "year": 1995,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Bridges of Madison County",
+      "year": 1995,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Apollo 13",
+      "year": null,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Trois couleurs: Blanc",
+      "year": 1994,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Falling Down",
+      "year": 1993,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Dazed and Confused",
+      "year": 1993,
+      "rating": 7.6,
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "My Cousin Vinny",
+      "year": 1992,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Omohide poro poro",
+      "year": 1991,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Delicatessen",
+      "year": 1991,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Home Alone",
+      "year": 1990,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Godfather: Part III",
+      "year": 1990,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "When Harry Met Sally...",
+      "year": 1989,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Planes, Trains & Automobiles",
+      "year": 1987,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lethal Weapon",
+      "year": 1987,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Blood Simple",
+      "year": 1984,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "On Golden Pond",
+      "year": 1981,
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Mad Max 2",
+      "year": 1981,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Warriors",
+      "year": 1979,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Muppet Movie",
+      "year": 1979,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Escape from Alcatraz",
+      "year": 1979,
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Biography",
+        "Crime"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Watership Down",
+      "year": 1978,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Midnight Express",
+      "year": 1978,
+      "rating": 7.6,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Long Goodbye",
+      "year": 1973,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Gi\u00f9 la testa",
+      "year": 1971,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "War",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Kelly's Heroes",
+      "year": 1970,
+      "rating": 7.6,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The Jungle Book",
+      "year": 1967,
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Blowup",
+      "year": 1966,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "A Hard Day's Night",
+      "year": 1964,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Music",
+        "Musical"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Giant",
+      "year": 1956,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "From Here to Eternity",
+      "year": 1953,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "Lifeboat",
+      "year": 1944,
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "imdb_id": null
+    },
+    {
+      "title": "The 39 Steps",
+      "year": 1935,
+      "rating": 7.6,
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": null
+    }
+  ]
+}
