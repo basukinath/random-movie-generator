@@ -1,7 +1,8 @@
 from flask import Flask, render_template, request, jsonify
-import random
-import imdb
 from movie_service import MovieService
+
+# Author: Basu
+__author__ = "Basu"
 
 app = Flask(__name__)
 movie_service = MovieService()
@@ -39,19 +40,7 @@ def suggest_movie():
         'total': result["total"]
     })
 
-@app.route('/rank', methods=['POST'])
-def rank_movies():
-    directory = request.json.get('directory', '')
-    use_json_db = request.json.get('useJsonDb', True)
-    
-    if not directory:
-        return jsonify({'error': 'No directory provided'}), 400
-    
-    try:
-        ranked_movies = movie_service.rank_movies(directory, use_json_db)
-        return jsonify({'ranked_movies': ranked_movies})
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
+# Ranking feature removed; app focuses on random movie suggestions only
 
 if __name__ == '__main__':
     app.run(debug=True)

@@ -3,6 +3,9 @@ import json
 import os
 import re
 
+# Author: Basu
+__author__ = "Basu"
+
 def extract_imdb_id(poster_url):
     """Extract IMDb ID from poster URL if possible."""
     try:

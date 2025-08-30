@@ -1,9 +1,11 @@
 import os
-import re
 import random
 import json
 import imdb
 from collections import defaultdict
+
+# Author: Basu
+__author__ = "Basu"
 
 class Movie:
     """Class to store movie information."""
@@ -93,17 +95,7 @@ class MovieService:
         """Return all available genres."""
         return self.all_genres
         
-    def clean_title(self, title):
-        """Clean movie title by removing parentheses, brackets, etc."""
-        # Remove content in parentheses
-        title = re.sub(r'\([^)]*\)', '', title)
-        # Remove content in brackets
-        title = re.sub(r'\[[^]]*\]', '', title)
-        # Replace periods with spaces
-        title = title.replace('.', ' ')
-        # Clean up multiple spaces and trim
-        title = ' '.join(title.split())
-        return title
+    
     
     def get_movie_details(self, title, use_json_db=True):
         """
@@ -262,38 +254,4 @@ class MovieService:
             "total": total
         }
     
-    def rank_movies(self, directory_path, use_json_db=True):
-        """
-        Rank movies in a directory by their IMDB rating.
-        
-        Args:
-            directory_path: Path to the directory containing movie files
-            use_json_db: Whether to use the JSON database first
-        """
-        if not os.path.isdir(directory_path):
-            raise ValueError(f"'{directory_path}' is not a valid directory")
-        
-        movie_names = os.listdir(directory_path)
-        # Filter out non-movie files (like directories, system files)
-        movie_names = [name for name in movie_names if not name.startswith('.') and not os.path.isdir(os.path.join(directory_path, name))]
-        
-        movies = []
-        
-        # Process movies in batches for better performance
-        for movie_name in movie_names:
-            clean_title = self.clean_title(movie_name)
-            movie_details = self.get_movie_details(clean_title, use_json_db=use_json_db)
-            movies.append(Movie(movie_name, movie_details.rating))
-        
-        # Sort by rating in descending order
-        ranked_movies = sorted(movies, key=lambda x: x.rating if x.rating != -1 else float('-inf'), reverse=True)
-        
-        # Write to file
-        output_file = os.path.join(directory_path, "MoviesRanked.txt")
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(f"{'Movie':<80} {'IMDBRating':<3}\n")
-            f.write(f"{'='*5:<80} {'='*10:<3}\n")
-            for movie in ranked_movies:
-                f.write(f"{movie.title:<80} {movie.rating:<3}\n")
-        
-        return [movie.to_dict() for movie in ranked_movies]
+    

@@ -1,14 +1,13 @@
-# Movie Ranker & Recommender
+# Random Movie Generator
 
-A modern web application that ranks your local movie files by rating and suggests movies based on your preferred genres.
+A modern web application that suggests random movies based on your preferred genres.
 
 ![Movie Recommender Screenshot](https://via.placeholder.com/800x450.png?text=Movie+Recommender+App)
 
 ## Features
 
 ### Core Functionality
-- **Movie Ranking**: Scan a local directory and rank all movies by their ratings
-- **Movie Recommendations**: Get movie suggestions based on selected genres
+- **Movie Recommendations**: Get random movie suggestions based on selected genres
 - **Multiple Genre Filtering**: Select multiple genres to narrow down recommendations
 - **Flexible Data Sources**: Choose between local database (faster) or online search (more comprehensive)
 
@@ -61,7 +60,7 @@ python app.py
 
 Then open http://localhost:5000 in your web browser.
 
-### Using the Movie Recommender
+### Using the Random Movie Generator
 
 1. **Get Movie Recommendations**:
    - Select one or more genres from the list in the sidebar
@@ -70,10 +69,7 @@ Then open http://localhost:5000 in your web browser.
    - Click "Get Random Movie" to see your suggestions
    - Movie details will appear in the right panel
 
-2. **Rank Your Movies**:
-   - Enter the path to your movies directory in the "Movies Directory" field
-   - Click "Rank Movies" to generate a ranked list
-   - The results appear in the right panel and are also saved to "MoviesRanked.txt" in your movies directory
+ 
 
 ### Data Sources
 
