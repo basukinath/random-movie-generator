@@ -29,8 +29,8 @@ A modern web application that ranks your local movie files by rating and suggest
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/basukinath/movie-ranker.git
-   cd movie-ranker
+   git clone https://github.com/basukinath/random-movie-generator.git
+   cd random-movie-generator
    ```
 
 2. Create and activate a virtual environment (recommended):
@@ -51,9 +51,9 @@ A modern web application that ranks your local movie files by rating and suggest
 
 ## Usage
 
-### Starting the Web Application
+### Start the Web Application
 
-Run the Flask app:
+Run the Flask app (Windows PowerShell shown; adjust for your shell if needed):
 
 ```bash
 python app.py
@@ -72,9 +72,8 @@ Then open http://localhost:5000 in your web browser.
 
 2. **Rank Your Movies**:
    - Enter the path to your movies directory in the "Movies Directory" field
-   - Select your preferred data source
    - Click "Rank Movies" to generate a ranked list
-   - The results will be displayed in the right panel and saved to a file named "MoviesRanked.txt" in your movies directory
+   - The results appear in the right panel and are also saved to "MoviesRanked.txt" in your movies directory
 
 ### Data Sources
 
@@ -97,13 +96,10 @@ Then open http://localhost:5000 in your web browser.
 - **Data Storage**: JSON database for efficient local lookups
 - **APIs**: Optional online search for expanded movie data
 
-## Command Line Usage (Legacy)
+## Entry Point
 
-For those who prefer command-line usage, the original functionality is still available:
-
-```bash
-python movie_ranker.py "D:\Movies"
-```
+The supported way to run this app is via the Flask server (`app.py`).
+The previous standalone CLI script has been removed.
 
 ## Contributing
 
